@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3940b48b73f0c4d44b2334f6bca3b8a0, type: 3}
   m_Name: Worrior Set
   m_EditorClassIdentifier: 
+  backSprite: {fileID: 21300000, guid: d47b1ea65fd2a4c4e9ae77398dfb77e0, type: 3}
   frontSprites:
   - {fileID: 1345829269, guid: 49d5720c9fafef04ca5d552cb2d90924, type: 3}
   - {fileID: 499429184, guid: 49d5720c9fafef04ca5d552cb2d90924, type: 3}
@@ -37,4 +38,5 @@ MonoBehaviour:
   - {fileID: -1869794323, guid: 49d5720c9fafef04ca5d552cb2d90924, type: 3}
   - {fileID: -110298371, guid: 49d5720c9fafef04ca5d552cb2d90924, type: 3}
   - {fileID: 357584080, guid: 49d5720c9fafef04ca5d552cb2d90924, type: 3}
-  backSprite: {fileID: 21300000, guid: d47b1ea65fd2a4c4e9ae77398dfb77e0, type: 3}
+  setName: Default Card Set
+  description: A collection of card sprites for the memory game inspired by heartshton
